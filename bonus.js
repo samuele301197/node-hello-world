@@ -11,7 +11,8 @@ return count;
 }
 
 const name = process.argv[2]
-console.log(contaVocali(name));
+// console.log(contaVocali(name));
+export default contaVocali
 
 
 
